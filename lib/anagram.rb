@@ -7,6 +7,7 @@ class Anagram
   end
   
   def match(possible_anagrams)
+    possible_anagrams do |words
     
   end
     
